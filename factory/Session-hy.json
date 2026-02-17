@@ -1,0 +1,9 @@
+{
+	"name": "Session-hy",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d47f4900-20cf-45ec-9256-bf9498d5e4bc",
+		"tenantId": "6213159b-93fa-42c4-a1f0-63531a51e01c"
+	}
+}
