@@ -64,7 +64,10 @@
 					},
 					"dataset": {
 						"referenceName": "DelimitedText1",
-						"type": "DatasetReference"
+						"type": "DatasetReference",
+						"parameters": {
+							"file_name": "sample.csv"
+						}
 					},
 					"firstRowOnly": false
 				}
